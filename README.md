@@ -1,2 +1,2 @@
-# php-data-fetching  
+# Php Data Fetching  
 Data fetching from MySQL database using PHP.
